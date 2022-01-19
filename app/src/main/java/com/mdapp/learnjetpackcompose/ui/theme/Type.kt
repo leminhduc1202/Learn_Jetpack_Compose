@@ -1,6 +1,7 @@
 package com.mdapp.learnjetpackcompose.ui.theme
 
 import androidx.compose.material.Typography
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontStyle
@@ -15,6 +16,7 @@ val Typography = Typography(
         fontSize = 16.sp
     ),
     body2 = TextStyle(
+        color = Color.Red,
         fontSize = 14.sp,
         fontWeight = FontWeight.Normal,
         fontStyle = FontStyle.Normal
