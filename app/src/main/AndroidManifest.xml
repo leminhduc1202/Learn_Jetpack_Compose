@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearnJetpackCompose">
         <activity
-            android:name=".text.TextFieldActivity"
+            android:name=".material.AlertDialogActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.LearnJetpackCompose.NoActionBar">
