@@ -2,13 +2,19 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="DefaultPreview">
+      <entry key="ExampleInstrumentedTest">
         <State />
       </entry>
-      <entry key="ShowLayout">
+      <entry key="TipUiTests">
         <State />
       </entry>
       <entry key="app">
+        <State />
+      </entry>
+      <entry key="calculate_20_percent_tip()">
+        <State />
+      </entry>
+      <entry key="useAppContext()">
         <State />
       </entry>
     </value>
